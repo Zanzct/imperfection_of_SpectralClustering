@@ -1,0 +1,2 @@
+# imperfection_of_SpectralClustering
+验证谱聚类在一些情况下的分类缺陷。
