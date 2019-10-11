@@ -1,7 +1,7 @@
 # imperfection_of_SpectralClustering
 验证谱聚类在一些情况下的分类缺陷。
 
-以《a toturial on spectral clustering》p12提到的样本图为例进行验证。取k=4。邻接矩阵为指定的邻接矩阵。
+以《a toturial on spectral clustering》提到的样本图为例进行验证。取k=4。邻接矩阵为指定的邻接矩阵。
 
 # 数据集
 data = [
